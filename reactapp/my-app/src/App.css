@@ -1,0 +1,19 @@
+header{
+  background-color: gold;
+  padding: 2rem 0;
+}
+
+header a{
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
+
+.left a{
+  font-size: 30px;
+}
+
+.right a{
+  margin-left: 20px;
+  font-size: 20px;
+}
